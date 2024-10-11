@@ -29,4 +29,4 @@ I'm a senior at **Woodinville High School** who has been coding for 4 years!
 
 ## Get in Touch
 - 📧 Email: [rapuri27@gmail.com](mailto:rapuri27@gmail.com)
-- 🌐 LinkedIn: [Raghav Puri LinkedIn Profile](https://www.linkedin.com/in/raghav-puri-whs/)
+- 🌐 LinkedIn: [linkedin.com/in/raghav-puri-whs/](https://www.linkedin.com/in/raghav-puri-whs/)
